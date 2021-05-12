@@ -10,7 +10,7 @@ app.use(bodyParser.urlencoded({ extended: false }))
 
 
 
-const USERS = { alice: 'password123', bob: '50505', mafalda: 'picard', peppino: 'sarchiapone' }
+const USERS = { alice: 'password123', bob: '50505', mafalda: 'picard', peppino: 'peppe123' }
 const CREDITS = { alice: 500, bob: 200, mafalda: 2000, peppino: 50}
 
 

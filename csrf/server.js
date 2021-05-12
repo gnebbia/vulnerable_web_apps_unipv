@@ -56,9 +56,9 @@ app.get('/', requireLogin, function(req, res, next) {
 // Super simple login system.
 // This is not how real login systems should work.
 var validLogins = [
-	{ username: 'bob', password: 'picard' },
+	{ username: 'bob', password: 'picard11' },
 	{ username: 'alice', password: 'password123' },
-	{ username: 'peppino', password: 'sarchiapone' },
+	{ username: 'peppino', password: 'peppe123' },
 	{ username: 'mafalda', password: 'mafalda' }
 
 ];
